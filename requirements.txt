@@ -1,0 +1,7 @@
+
+pandas
+requests
+pgeocode
+openpyxl
+geopy
+folium
